@@ -1,3 +1,5 @@
+> **Archived.** This is a 2013 demo written for the blog post linked below, showing form-based login to Rational Team Concert's OSLC API from C#. The classes it uses, `HttpWebRequest` and `WebClient`, are legacy in current .NET, and RTC is now IBM Engineering Workflow Management. It is kept for readers of the post and is not maintained.
+
 RTCFormAuthenticationUsingWebClient
 ===================================
 
